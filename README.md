@@ -24,11 +24,11 @@ This project is a traffic light control system implemented using an STM32 microc
 3. The system will start in normal mode (Mode 1).
 4. Press the first button to cycle through the modes (1 to 4, then back to 1).
 5. In modes 2, 3, and 4:
-  - The corresponding color LEDs will blink at 2 Hz.
-  - Two seven-segment LEDs will display the mode.
-  - The other two seven-segment LEDs will display the time duration value.
-  - Use the second button to increase the time duration value (range: 1-99).
-  - Use the third button to set the chosen time duration value.
+    - The corresponding color LEDs will blink at 2 Hz.
+    - Two seven-segment LEDs will display the mode.
+    - The other two seven-segment LEDs will display the time duration value.
+    - Use the second button to increase the time duration value (range: 1-99).
+    - Use the third button to set the chosen time duration value.
 
 ## Implementation
 The project consists of several exercises:
