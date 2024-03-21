@@ -9,7 +9,7 @@ This project is a traffic light control system implemented using an STM32 microc
 - 4 seven-segment LEDs for displaying time duration (2 for each road)
 - 3 buttons for mode selection, time duration adjustment, and value setting
 - 4 modes:
-      - Normal mode: Traffic lights operate in a regular cycle
+  - Normal mode: Traffic lights operate in a regular cycle
       - Modify red light time duration
       - Modify amber light time duration
       - Modify green light time duration
