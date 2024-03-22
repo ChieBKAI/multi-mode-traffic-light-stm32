@@ -14,9 +14,9 @@ This project is a traffic light control system implemented using an STM32 microc
   - Modify amber light time duration
   - Modify green light time duration
 ## Requirements
--STM32 microcontroller board
--Proteus schematic for circuit connections
--Timer interrupt set to 10ms
+- STM32 microcontroller board
+- Proteus schematic for circuit connections
+- Timer interrupt set to 10ms
 
 ## Usage
 1. Connect the circuit as per the Proteus schematic.
