@@ -30,14 +30,3 @@ This project is a traffic light control system implemented using an STM32 microc
     - Use the second button to increase the time duration value (range: 1-99).
     - Use the third button to set the chosen time duration value.
 
-## Implementation
-The project consists of several exercises:
-1. Sketch a finite state machine (FSM) for the system.
-2. Draw a Proteus schematic for the circuit connections.
-3. Create an STM32 project with timer interrupt set to 10ms.
-4. Modify timer parameters for adjustable interrupt duration without affecting the overall system.
-5. Add code for button debouncing and mode selection.
-6. Add code for displaying modes and blinking LEDs based on the selected mode.
-7. Add code for adjusting the time duration of the red LEDs.
-8. Add code for adjusting the time duration of the amber LEDs.
-9. Add code for adjusting the time duration of the green LEDs.
